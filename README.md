@@ -11,10 +11,16 @@
 
 ---
 
-<h3>🛠️ Languages and Tools 🛠️</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,react,flask,html,css,git&perline=6" />
-</p>
+### 🛠️ Skills:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=scikit-learn)
 
 ---
 
