@@ -1,12 +1,12 @@
 <h1><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ketaki+Shinde" alt="Typing SVG" />
 </p><h1>
-<h3 align="center">A passionate Data Science & Machine Learning enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
 
 - 🔭 I’m currently persuing **BTech. CSE with specializtion in Big Data Analytics**
 - 🌱 Currently leveling up in **Advanced React, Generative AI, and Real-World Machine Learning**
 - 👯 Always down to collaborate on **ML, AI, or Open Source projects** 🚀
-- 📫 How to reach me: **ketaki.shinde@example.com** *(replace with your real one obv 😉)*
+- 📫 How to reach me: **ketakshinde028@gmail.com** 
 - ⚡ Fun fact: **I think debugging is 90% tears, 10% "Aha!" moments 🧠💥**
 
 ---
