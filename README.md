@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ketaki Shinde</h1>
+<h1 align="center">Hi <p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+</p>, I'm Ketaki Shinde</h1>
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India 🇮🇳</h3>
 
 - 🔭 I’m currently persuing **BTech. CSE with specializtion in Big Data Analytics**
