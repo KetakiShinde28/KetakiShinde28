@@ -29,5 +29,5 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/ketaki-shinde-844b42255/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ketaki-shinde-844b42255/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=Internet-Explorer)](https://ketakishinde28.github.io/portfolio/)
